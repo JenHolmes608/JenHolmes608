@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jen Holmes</h1>
 <h3 align="center">A passionate data engineer from Cambridge, UK</h3>
 
-- 🔭 I’m currently working on [Multinational Retail Data Centralisation](https://github.com/JenHolmes608/multinational-retail-data-centralisation246)
+- 🔭 I’m currently working on [Pinterest Data Pipeline](https://github.com/JenHolmes608/pinterest-data-pipeline)
 
 - 🌱 I’m currently learning **javascript**
 
 - 📫 How to reach me **holmes_jennifer@ymail.com**
 
-- ⚡ Fun fact **I'm running the London Marathon 2024 for Caudwell Children**
+- ⚡ Fun fact **I completed the London Marathon 2024 for Caudwell Children and so far have raised over £2600**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
